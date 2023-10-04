@@ -18,3 +18,12 @@ p {
 p {
   font-style: italic;
 }
+.bluebox{
+  background-color: blue;
+}
+.redbox{
+  background-color: red;
+}
+.greenbox{
+  background-color: green;
+}
