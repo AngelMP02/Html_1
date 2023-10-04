@@ -9,4 +9,12 @@ h1 {
      text-indent: 50px;
      text-align: justify;
    }
-   span
+   /* Cambiar el color del párrafo a azul */
+p {
+  color: rgb(98, 0, 255);
+}
+
+/* cursiva al párrafo */
+p {
+  font-style: italic;
+}
